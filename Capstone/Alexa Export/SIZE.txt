@@ -1,0 +1,16 @@
+small
+medium
+large
+extra large
+little
+tiny
+short
+puny
+itty
+mini
+regular
+big
+jumbo
+mega
+ultra
+massive

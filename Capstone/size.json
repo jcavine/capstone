@@ -1,0 +1,45 @@
+{
+  "id": "22f53aaa-2c3c-4d49-a463-3e138589998d",
+  "name": "size",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "small",
+      "synonyms": [
+        "small",
+        "little",
+        "tiny",
+        "short",
+        "puny",
+        "itty",
+        "mini"
+      ]
+    },
+    {
+      "value": "medium",
+      "synonyms": [
+        "medium",
+        "regular"
+      ]
+    },
+    {
+      "value": "large",
+      "synonyms": [
+        "large",
+        "big"
+      ]
+    },
+    {
+      "value": "extra large",
+      "synonyms": [
+        "extra large",
+        "jumbo",
+        "mega",
+        "ultra",
+        "massive"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

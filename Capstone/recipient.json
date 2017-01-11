@@ -1,0 +1,94 @@
+{
+  "id": "0cd2d2cd-014a-418d-a19e-67b293969bff",
+  "name": "recipient",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "mom",
+      "synonyms": [
+        "mom",
+        "mother",
+        "mommy",
+        "ma",
+        "mama"
+      ]
+    },
+    {
+      "value": "dad",
+      "synonyms": [
+        "dad",
+        "daddy",
+        "dada",
+        "pop",
+        "papa",
+        "father",
+        "dadio"
+      ]
+    },
+    {
+      "value": "brother",
+      "synonyms": [
+        "brother",
+        "bro"
+      ]
+    },
+    {
+      "value": "sister",
+      "synonyms": [
+        "sister",
+        "sis"
+      ]
+    },
+    {
+      "value": "son",
+      "synonyms": [
+        "son"
+      ]
+    },
+    {
+      "value": "daughter",
+      "synonyms": [
+        "daughter"
+      ]
+    },
+    {
+      "value": "cousin",
+      "synonyms": [
+        "cousin"
+      ]
+    },
+    {
+      "value": "nephew",
+      "synonyms": [
+        "nephew"
+      ]
+    },
+    {
+      "value": "uncle",
+      "synonyms": [
+        "uncle"
+      ]
+    },
+    {
+      "value": "niece",
+      "synonyms": [
+        "niece"
+      ]
+    },
+    {
+      "value": "aunt",
+      "synonyms": [
+        "aunt",
+        "auntie"
+      ]
+    },
+    {
+      "value": "Rick Astley",
+      "synonyms": [
+        "Rick Astley"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

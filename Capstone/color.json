@@ -1,0 +1,58 @@
+{
+  "id": "9f42e4ae-c23a-46bc-b855-9fb0288396cc",
+  "name": "color",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "purple",
+      "synonyms": [
+        "purple"
+      ]
+    },
+    {
+      "value": "yellow",
+      "synonyms": [
+        "yellow"
+      ]
+    },
+    {
+      "value": "red",
+      "synonyms": [
+        "red"
+      ]
+    },
+    {
+      "value": "blue",
+      "synonyms": [
+        "blue",
+        "cyan"
+      ]
+    },
+    {
+      "value": "orange",
+      "synonyms": [
+        "orange"
+      ]
+    },
+    {
+      "value": "green",
+      "synonyms": [
+        "green"
+      ]
+    },
+    {
+      "value": "black",
+      "synonyms": [
+        "black"
+      ]
+    },
+    {
+      "value": "white",
+      "synonyms": [
+        "white"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

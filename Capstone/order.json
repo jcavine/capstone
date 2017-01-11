@@ -1,0 +1,1173 @@
+{
+  "templates": [
+    "i would like a @color:color  @size:size widget for @occasion:occasion ",
+    "please order a @color:color  @size:size widget for @occasion:occasion ",
+    "i need a @color:color  @size:size widget for @occasion:occasion ",
+    "please order a @size:size widget for @recipient:recipient for @occasion:occasion ",
+    "i would like a @size:size widget for @recipient:recipient for @occasion:occasion ",
+    "i need a @size:size widget for @recipient:recipient for @occasion:occasion ",
+    "please order a @color:color widget for @recipient:recipient for @occasion:occasion ",
+    "i would like a @color:color widget for @recipient:recipient for @occasion:occasion ",
+    "i need a @size:size  @color:color widget for @recipient:recipient for @occasion:occasion ",
+    "please order a @color:color  @occasion:occasion widget for @recipient:recipient ",
+    "i would like a @size:size  @occasion:occasion widget for @recipient:recipient ",
+    "i need a @size:size  @occasion:occasion widget for @recipient:recipient ",
+    "i would like a @color:color  @occasion:occasion widget for @recipient:recipient ",
+    "i need a @color:color  @occasion:occasion widget for @recipient:recipient ",
+    "please order a @color:color widget",
+    "i need a @color:color widget",
+    "i need a widget for @occasion:occasion ",
+    "@size:size ",
+    "please order a @color:color widgt",
+    "please order a @color:color widget",
+    "@color:color widget",
+    "i need a @size:size widget",
+    "i need a widget",
+    "@color:color ",
+    "@occasion:occasion ",
+    "@recipient:recipient ",
+    "widget for @occasion:occasion ",
+    "i need a widget for @occasion:occasion ",
+    "i need a widget for my @recipient:recipient ",
+    "i need a @occasion:occasion widget",
+    "my @recipient:recipient ",
+    "i need a @occasion:occasion widget",
+    "@color:color ",
+    "miniscule",
+    "i need @color:color widgets",
+    "@occasion:occasion ",
+    "i need a @occasion:occasion widget",
+    "@color:color widget",
+    "@size:size widget",
+    "widget for @recipient:recipient ",
+    "i need a widget for @recipient:recipient ",
+    "i need a @size:size widget",
+    "i need a @color:color widget",
+    "i need a widget for @occasion:occasion ",
+    "widget for @occasion:occasion ",
+    "order a widget",
+    "Please order a widget",
+    "I need a widget",
+    "order widget"
+  ],
+  "userSays": [
+    {
+      "id": "2bc051bf-df69-48d8-9d46-4a2ede87ef23",
+      "data": [
+        {
+          "text": "i would like a "
+        },
+        {
+          "text": "color",
+          "alias": "color",
+          "meta": "@color",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "size",
+          "alias": "size",
+          "meta": "@size",
+          "userDefined": true
+        },
+        {
+          "text": " widget for "
+        },
+        {
+          "text": "occasion",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "83a2d041-3183-4129-8824-a0c737328a7a",
+      "data": [
+        {
+          "text": "please order a "
+        },
+        {
+          "text": "color",
+          "alias": "color",
+          "meta": "@color",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "size",
+          "alias": "size",
+          "meta": "@size",
+          "userDefined": true
+        },
+        {
+          "text": " widget for "
+        },
+        {
+          "text": "occasion",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3d2abc20-6594-4e54-aa52-005afa1cc154",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "color",
+          "alias": "color",
+          "meta": "@color",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "size",
+          "alias": "size",
+          "meta": "@size",
+          "userDefined": true
+        },
+        {
+          "text": " widget for "
+        },
+        {
+          "text": "occasion",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cbc94d87-dc3b-4b78-89d6-5269f56659ef",
+      "data": [
+        {
+          "text": "please order a "
+        },
+        {
+          "text": "size",
+          "alias": "size",
+          "meta": "@size",
+          "userDefined": true
+        },
+        {
+          "text": " widget for "
+        },
+        {
+          "text": "recipient",
+          "alias": "recipient",
+          "meta": "@recipient",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "occasion",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bf09838f-eb5d-4576-bf70-d8439ab00f21",
+      "data": [
+        {
+          "text": "i would like a "
+        },
+        {
+          "text": "size",
+          "alias": "size",
+          "meta": "@size",
+          "userDefined": true
+        },
+        {
+          "text": " widget for "
+        },
+        {
+          "text": "recipient",
+          "alias": "recipient",
+          "meta": "@recipient",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "occasion",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dcd5e566-0e9f-49b1-9b8e-fea7bf3abd93",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "size",
+          "alias": "size",
+          "meta": "@size",
+          "userDefined": true
+        },
+        {
+          "text": " widget for "
+        },
+        {
+          "text": "recipient",
+          "alias": "recipient",
+          "meta": "@recipient",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "occasion",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ffc6f710-7c00-41e3-a6a6-9e680b5244d5",
+      "data": [
+        {
+          "text": "please order a "
+        },
+        {
+          "text": "color",
+          "alias": "color",
+          "meta": "@color",
+          "userDefined": true
+        },
+        {
+          "text": " widget for "
+        },
+        {
+          "text": "recipient",
+          "alias": "recipient",
+          "meta": "@recipient",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "occasion",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f5ba6f97-70e1-443f-9842-3b3a2dc997b8",
+      "data": [
+        {
+          "text": "i would like a "
+        },
+        {
+          "text": "color",
+          "alias": "color",
+          "meta": "@color",
+          "userDefined": true
+        },
+        {
+          "text": " widget for "
+        },
+        {
+          "text": "recipient",
+          "alias": "recipient",
+          "meta": "@recipient",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "occasion",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d2f42cc5-9300-4473-aaf6-dcbc594c26e8",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "size",
+          "alias": "size",
+          "meta": "@size",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "color",
+          "alias": "color",
+          "meta": "@color",
+          "userDefined": true
+        },
+        {
+          "text": " widget for "
+        },
+        {
+          "text": "recipient",
+          "alias": "recipient",
+          "meta": "@recipient",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "occasion",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1c3202cb-961d-4ba7-9435-2dc9092d5ed4",
+      "data": [
+        {
+          "text": "please order a "
+        },
+        {
+          "text": "color",
+          "alias": "color",
+          "meta": "@color",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "occasion",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": true
+        },
+        {
+          "text": " widget for "
+        },
+        {
+          "text": "recipient",
+          "alias": "recipient",
+          "meta": "@recipient",
+          "userDefined": true
+        },
+        {
+          "text": ""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9ff20810-5c59-407c-b28a-fe4ecf5da2bf",
+      "data": [
+        {
+          "text": "i would like a "
+        },
+        {
+          "text": "size",
+          "alias": "size",
+          "meta": "@size",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "occasion",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": true
+        },
+        {
+          "text": " widget for "
+        },
+        {
+          "text": "recipient",
+          "alias": "recipient",
+          "meta": "@recipient",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f29f22d2-4e20-4d88-b70f-4d901a2109c0",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "size",
+          "alias": "size",
+          "meta": "@size",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "occasion",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": true
+        },
+        {
+          "text": " widget for "
+        },
+        {
+          "text": "recipient",
+          "alias": "recipient",
+          "meta": "@recipient",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "0d17a74e-d565-4761-874d-90cb218d19a5",
+      "data": [
+        {
+          "text": "i would like a "
+        },
+        {
+          "text": "color",
+          "alias": "color",
+          "meta": "@color",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "occasion",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": true
+        },
+        {
+          "text": " widget for "
+        },
+        {
+          "text": "recipient",
+          "alias": "recipient",
+          "meta": "@recipient",
+          "userDefined": true
+        },
+        {
+          "text": ""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e33d60af-e99d-4498-a4d1-4e2e705bee18",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "color",
+          "alias": "color",
+          "meta": "@color",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "occasion",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": true
+        },
+        {
+          "text": " widget for "
+        },
+        {
+          "text": "recipient",
+          "alias": "recipient",
+          "meta": "@recipient",
+          "userDefined": true
+        },
+        {
+          "text": ""
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "84568875-fc74-43e4-afad-32b76a0c5a48",
+      "data": [
+        {
+          "text": "please order a "
+        },
+        {
+          "text": "blue",
+          "alias": "color",
+          "meta": "@color",
+          "userDefined": false
+        },
+        {
+          "text": " widget"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4549eede-50fa-42e6-bb16-9a25421576cf",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "blue",
+          "alias": "color",
+          "meta": "@color",
+          "userDefined": false
+        },
+        {
+          "text": " widget"
+        }
+      ],
+      "isTemplate": false,
+      "count": 2
+    },
+    {
+      "id": "75507f6e-6fde-4e41-a86d-31c7fddb3a31",
+      "data": [
+        {
+          "text": "i need a widget for "
+        },
+        {
+          "text": "christmas",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "3534df05-7728-4e96-a44e-da6c74f3918c",
+      "data": [
+        {
+          "text": "large",
+          "alias": "size",
+          "meta": "@size",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "fc23e1b8-280c-4b46-bba7-d20cf815dc91",
+      "data": [
+        {
+          "text": "please order a "
+        },
+        {
+          "text": "yellow",
+          "alias": "color",
+          "meta": "@color",
+          "userDefined": false
+        },
+        {
+          "text": " widgt"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f8307aa1-ceb8-4536-8354-1024937a9116",
+      "data": [
+        {
+          "text": "please order a "
+        },
+        {
+          "text": "yellow",
+          "alias": "color",
+          "meta": "@color",
+          "userDefined": false
+        },
+        {
+          "text": " widget"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c64be710-cf10-4bca-b763-d9c2e1a4df84",
+      "data": [
+        {
+          "text": "red",
+          "alias": "color",
+          "meta": "@color",
+          "userDefined": false
+        },
+        {
+          "text": " widget"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7fa11229-fc98-476d-86a4-c2350c63ef43",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "large",
+          "alias": "size",
+          "meta": "@size",
+          "userDefined": false
+        },
+        {
+          "text": " widget"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "151e4c3d-b3fa-4023-84a2-bd0bf22272b7",
+      "data": [
+        {
+          "text": "i need a widget"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "19096e1b-73c7-45a0-a82f-1709e121b946",
+      "data": [
+        {
+          "text": "blue",
+          "alias": "color",
+          "meta": "@color",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "972a36df-7bb8-4709-a60c-cf4432ffa760",
+      "data": [
+        {
+          "text": "mother\u0027s day",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "43ec52cb-af1e-4a95-b7d0-eb942c898bb5",
+      "data": [
+        {
+          "text": "mom",
+          "alias": "recipient",
+          "meta": "@recipient",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f3aa30f2-3816-456c-b77e-8508802607a4",
+      "data": [
+        {
+          "text": "widget for "
+        },
+        {
+          "text": "christmas",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a940e866-7b8a-4dff-9a88-f69e438574f2",
+      "data": [
+        {
+          "text": "i need a widget for "
+        },
+        {
+          "text": "mother\u0027s day",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "478bca21-401a-4de2-a0a6-ddc5baabe64a",
+      "data": [
+        {
+          "text": "i need a widget for my "
+        },
+        {
+          "text": "son",
+          "alias": "recipient",
+          "meta": "@recipient",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "774bc83b-4334-48be-bfb8-36477fbd7f99",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "christmas",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": false
+        },
+        {
+          "text": " widget"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "9bdca46f-255f-401a-be5f-fa89e4bff816",
+      "data": [
+        {
+          "text": "my "
+        },
+        {
+          "text": "mom",
+          "alias": "recipient",
+          "meta": "@recipient",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6576a4c7-5b1a-4f80-a85c-c135cf0ccb11",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "mother\u0027s day",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": false
+        },
+        {
+          "text": " widget"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "445a4b44-c354-459c-aa8b-99f1762e641f",
+      "data": [
+        {
+          "text": "red",
+          "alias": "color",
+          "meta": "@color",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a8cb3836-8aeb-4a6f-ae80-4cbbb3902f00",
+      "data": [
+        {
+          "text": "miniscule"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "89529091-61c0-45c1-af98-012340515f1c",
+      "data": [
+        {
+          "text": "i need "
+        },
+        {
+          "text": "blue",
+          "alias": "color",
+          "meta": "@color",
+          "userDefined": false
+        },
+        {
+          "text": " widgets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dae60c6f-1905-477f-a4be-4be439f8541e",
+      "data": [
+        {
+          "text": "fathers day",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "86fa64d2-702d-44d0-b26a-23c597264145",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "occasion",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": true
+        },
+        {
+          "text": " widget"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e7a6e520-2c76-461d-afbe-340e180b45a5",
+      "data": [
+        {
+          "text": "color",
+          "alias": "color",
+          "meta": "@color",
+          "userDefined": true
+        },
+        {
+          "text": " widget"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5837b04f-3fce-4c33-a490-f586f9a98183",
+      "data": [
+        {
+          "text": "size",
+          "alias": "size",
+          "meta": "@size",
+          "userDefined": true
+        },
+        {
+          "text": " widget"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bff0e8e4-aa9d-40c8-8434-7b8c061e2852",
+      "data": [
+        {
+          "text": "widget for "
+        },
+        {
+          "text": "recipient",
+          "alias": "recipient",
+          "meta": "@recipient",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "901f3064-c79f-42e5-b8bd-f2ec12e4b816",
+      "data": [
+        {
+          "text": "i need a widget for "
+        },
+        {
+          "text": "recipient",
+          "alias": "recipient",
+          "meta": "@recipient",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ef81a81a-56b3-48db-bd2a-00c0a2a25825",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "size",
+          "alias": "size",
+          "meta": "@size",
+          "userDefined": true
+        },
+        {
+          "text": " widget"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "09897bd0-1b11-4aa3-a8be-694a5fd40542",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "color",
+          "alias": "color",
+          "meta": "@color",
+          "userDefined": true
+        },
+        {
+          "text": " widget"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9e73ddf3-c0ef-441d-8d75-4148d7252d3b",
+      "data": [
+        {
+          "text": "i need a widget for "
+        },
+        {
+          "text": "occasion",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "79eba855-9348-400d-b6dd-2466879385b6",
+      "data": [
+        {
+          "text": "widget for "
+        },
+        {
+          "text": "occasion",
+          "alias": "occasion",
+          "meta": "@occasion",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1c977ad1-3b6a-425d-b758-5e00eba6b0ab",
+      "data": [
+        {
+          "text": "order a widget"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eb05ae41-55de-489e-a05e-461acf774743",
+      "data": [
+        {
+          "text": "Please order a widget"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6bb1dc3b-c658-47a6-849b-72832dcca492",
+      "data": [
+        {
+          "text": "I need a widget"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e6aba681-b6c8-4ac6-a5af-0055dc287034",
+      "data": [
+        {
+          "text": "order widget"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "92ea7b66-36aa-43b2-b0b0-20379ca24d8e",
+  "name": "order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.order",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "required": true,
+          "dataType": "@occasion",
+          "name": "occasion",
+          "value": "$occasion",
+          "prompts": [
+            "Ok, what occasion is it for?",
+            "Ok, what\u0027s the occasion?",
+            "What\u0027s the occasion?",
+            "What are we celebrating?",
+            "What occasion is the widget for?"
+          ],
+          "isList": true
+        },
+        {
+          "required": true,
+          "dataType": "@color",
+          "name": "color",
+          "value": "$color",
+          "prompts": [
+            "Ok, what color would you like the widget to be?",
+            "Ok, what color?",
+            "Ok, what color would you like?"
+          ],
+          "isList": true
+        },
+        {
+          "required": true,
+          "dataType": "@size",
+          "name": "size",
+          "value": "$size",
+          "prompts": [
+            "Ok, what size widget would you like?"
+          ],
+          "isList": true
+        },
+        {
+          "required": true,
+          "dataType": "@recipient",
+          "name": "recipient",
+          "value": "$recipient",
+          "prompts": [
+            "Ok, who is the widget for?"
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "title": "This is your widget!",
+          "subtitle": "Here\u0027s a preview of your widget!  We\u0027ll place the order right away!",
+          "imageUrl": "http://socialnewsdaily.com/wp-content/uploads/2014/05/rick-astley-rickrolling.jpg",
+          "buttons": [],
+          "type": 1
+        },
+        {
+          "type": 0,
+          "speech": "Got it! A $size $color widget for $occasion will be ordered for your $recipient!"
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ]
+}

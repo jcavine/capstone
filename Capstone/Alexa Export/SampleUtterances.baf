@@ -1,0 +1,37 @@
+Order	{sizeslot} widget
+Order	{recipientslot}
+Order	{occasionslot}
+Order	{colorslot}
+Order	{colorslot} widget
+Order	{sizeslot}
+Order	i need a widget
+Order	i need a widget for my {recipientslot}
+Order	i need a widget for {occasionslot}
+Order	i need a widget for {recipientslot}
+Order	i need a {colorslot} widget
+Order	i need a {colorslot} {occasionslot} widget for {recipientslot}
+Order	i need a {colorslot} {sizeslot} widget for {occasionslot}
+Order	i need a {occasionslot} widget
+Order	i need a {sizeslot} widget
+Order	i need a {sizeslot} widget for {recipientslot} for {occasionslot}
+Order	i need a {sizeslot} {colorslot} widget for {recipientslot} for {occasionslot}
+Order	i need a {sizeslot} {occasionslot} widget for {recipientslot}
+Order	i need {colorslot} widgets
+Order	i would like a {colorslot} widget for {recipientslot} for {occasionslot}
+Order	i would like a {colorslot} {occasionslot} widget for {recipientslot}
+Order	i would like a {colorslot} {sizeslot} widget for {occasionslot}
+Order	i would like a {sizeslot} widget for {recipientslot} for {occasionslot}
+Order	i would like a {sizeslot} {occasionslot} widget for {recipientslot}
+Order	miniscule
+Order	my {recipientslot}
+Order	order a widget
+Order	order widget
+Order	please order a widget
+Order	please order a {colorslot} widget
+Order	please order a {colorslot} widget for {recipientslot} for {occasionslot}
+Order	please order a {colorslot} widgt
+Order	please order a {colorslot} {occasionslot} widget for {recipientslot}
+Order	please order a {colorslot} {sizeslot} widget for {occasionslot}
+Order	please order a {sizeslot} widget for {recipientslot} for {occasionslot}
+Order	widget for {occasionslot}
+Order	widget for {recipientslot}

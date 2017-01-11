@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "Order",
+      "slots": [
+        {
+          "name": "colorslot",
+          "type": "COLOR"
+        },
+        {
+          "name": "sizeslot",
+          "type": "SIZE"
+        },
+        {
+          "name": "occasionslot",
+          "type": "OCCASION"
+        },
+        {
+          "name": "recipientslot",
+          "type": "RECIPIENT"
+        }
+      ]
+    }
+  ]
+}

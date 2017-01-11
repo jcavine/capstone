@@ -1,0 +1,56 @@
+{
+  "id": "b84e157a-3da0-4d21-8561-db35d40192a4",
+  "name": "occasion",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "mother\u0027s day",
+      "synonyms": [
+        "Mom\u0027s Day",
+        "Mommy\u0027s Day",
+        "Momma\u0027s Day",
+        "Ma\u0027s Day",
+        "mother\u0027s day",
+        "mothers day",
+        "moms day",
+        "mommys day",
+        "mas day"
+      ]
+    },
+    {
+      "value": "christmas",
+      "synonyms": [
+        "Christmas Day",
+        "X-mas",
+        "X-mas Day",
+        "christmas",
+        "xmas day",
+        "xmas",
+        "x mas",
+        "x mas day"
+      ]
+    },
+    {
+      "value": "father\u0027s day",
+      "synonyms": [
+        "Dad\u0027s Day",
+        "father\u0027s day",
+        "fathers day",
+        "dads day"
+      ]
+    },
+    {
+      "value": "valentines",
+      "synonyms": [
+        "Valentine\u0027s Day",
+        "Heart Day",
+        "valentine\u0027s day",
+        "valentines",
+        "valentine\u0027s",
+        "v day"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}
